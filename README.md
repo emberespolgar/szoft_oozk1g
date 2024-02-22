@@ -1,0 +1,1 @@
+# szoft_oozk1g

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{CC2F0613-A8AF-429F-9B1D-935FBF2D226C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Szorzotabla", "Szorzotabla\Szorzotabla.csproj", "{CC2F0613-A8AF-429F-9B1D-935FBF2D226C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{A2E429A7-5A9A-4AAF-B2AF-F2E97724F2F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{A2E429A7-5A9A-4AAF-B2AF-F2E97724F2F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci gombos", "Fibonacci gombos\Fibonacci gombos.csproj", "{9507A0B1-899E-46D2-BAF5-D0C3327C47E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci gombos", "Fibonacci gombos\Fibonacci gombos.csproj", "{9507A0B1-899E-46D2-BAF5-D0C3327C47E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal", "Pascal\Pascal.csproj", "{1ADC40CE-3D43-4FE1-AE51-2DA5CA315B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{1ADC40CE-3D43-4FE1-AE51-2DA5CA315B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hajós", "Hajós\Hajós.csproj", "{BDFA244A-F109-466C-8F20-4AA434E9289F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1ADC40CE-3D43-4FE1-AE51-2DA5CA315B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ADC40CE-3D43-4FE1-AE51-2DA5CA315B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ADC40CE-3D43-4FE1-AE51-2DA5CA315B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFA244A-F109-466C-8F20-4AA434E9289F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFA244A-F109-466C-8F20-4AA434E9289F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFA244A-F109-466C-8F20-4AA434E9289F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFA244A-F109-466C-8F20-4AA434E9289F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hajós", "Hajós\Hajós.csproj", "{BDFA244A-F109-466C-8F20-4AA434E9289F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kígyós", "Kígyós\Kígyós.csproj", "{F5C1DC3B-9B1E-45B2-AE03-041801BE331E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kígyós", "Kígyós\Kígyós.csproj", "{F5C1DC3B-9B1E-45B2-AE03-041801BE331E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adatrbetoltes", "Adatrbetoltes\Adatrbetoltes.csproj", "{C0E6E1EC-32A3-417C-A54D-1950BB79FD0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F5C1DC3B-9B1E-45B2-AE03-041801BE331E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5C1DC3B-9B1E-45B2-AE03-041801BE331E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C1DC3B-9B1E-45B2-AE03-041801BE331E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E6E1EC-32A3-417C-A54D-1950BB79FD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E6E1EC-32A3-417C-A54D-1950BB79FD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E6E1EC-32A3-417C-A54D-1950BB79FD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E6E1EC-32A3-417C-A54D-1950BB79FD0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
